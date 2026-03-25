@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @laughablepower
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning Data Structure and Algorithms.
-- 💞️ I’m looking to collaborate on any small c++ projects that are helpful for learning new things.
-- 📫 How to reach me laughablepower@gmail.com
+- 👀 I’m experienced in Java
+- 📫 How to reach me- amanrana41work@gmail.com
 
 
 <!---
