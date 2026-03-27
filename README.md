@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laughablepower
+- 👋 Hi, I’m Aman Rana
 - 👀 I’m experienced in Java
 - 📫 How to reach me- amanrana41work@gmail.com
 
